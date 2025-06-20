@@ -7,7 +7,7 @@ Mentoroo is your modern AI-powered study buddy, crafted to help students prepari
 
 ## ✨ Features
 
-- 📚 **AI Chatbot** – Ask any NEET-related question and get instant, accurate, and concise responses.
+- 📚 **AI Chatbot** – Ask any question and get instant, accurate, and concise responses.
 - 🧪 **Subject-wise Support** – Biology, Physics, Chemistry – your trio of subjects covered comprehensively.
 - 🧠 **Smart Suggestions** – Based on your queries and learning patterns.
 - 📅 **Study Planner (Coming Soon)** – Plan your prep and stay consistent.
@@ -44,7 +44,7 @@ Make sure you have:
 
 - Node.js >= 18
 - pnpm or npm/yarn
-- An `.env` file (if required for OpenAI API key or other secrets)
+- An `.env` file 
 
 ---
 
